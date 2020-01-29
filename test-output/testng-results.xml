@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="720" started-at="2020-01-29T09:45:33Z" finished-at="2020-01-29T09:45:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="720" started-at="2020-01-29T09:45:33Z" finished-at="2020-01-29T09:45:34Z">
+      <class name="com.test.DasBoardTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.DasBoardTest@1817d444]" name="openBrowser" is-config="true" duration-ms="14961" started-at="2020-01-29T15:15:19Z" finished-at="2020-01-29T15:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loadMenuForTesting()[pri:0, instance:com.test.DasBoardTest@1817d444]" name="loadMenuForTesting" is-config="true" duration-ms="524" started-at="2020-01-29T15:15:34Z" finished-at="2020-01-29T15:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadMenuForTesting -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:1, instance:com.test.DasBoardTest@1817d444]" name="testLinkSpellings" duration-ms="17" started-at="2020-01-29T15:15:34Z" data-provider="empLogin" finished-at="2020-01-29T15:15:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dashboard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:1, instance:com.test.DasBoardTest@1817d444]" name="testLinkSpellings" duration-ms="4" started-at="2020-01-29T15:15:34Z" data-provider="empLogin" finished-at="2020-01-29T15:15:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Users]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:1, instance:com.test.DasBoardTest@1817d444]" name="testLinkSpellings" duration-ms="2" started-at="2020-01-29T15:15:34Z" data-provider="empLogin" finished-at="2020-01-29T15:15:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Operators]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:1, instance:com.test.DasBoardTest@1817d444]" name="testLinkSpellings" duration-ms="3" started-at="2020-01-29T15:15:34Z" data-provider="empLogin" finished-at="2020-01-29T15:15:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Useful Links]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:1, instance:com.test.DasBoardTest@1817d444]" name="testLinkSpellings" duration-ms="2" started-at="2020-01-29T15:15:34Z" data-provider="empLogin" finished-at="2020-01-29T15:15:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Downloads]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:1, instance:com.test.DasBoardTest@1817d444]" name="testLinkSpellings" duration-ms="2" started-at="2020-01-29T15:15:34Z" data-provider="empLogin" finished-at="2020-01-29T15:15:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Logout]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinksCount()[pri:2, instance:com.test.DasBoardTest@1817d444]" name="testLinksCount" duration-ms="2" started-at="2020-01-29T15:15:34Z" finished-at="2020-01-29T15:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinksCount -->
+        <test-method status="PASS" signature="testLinksSeq()[pri:3, instance:com.test.DasBoardTest@1817d444]" name="testLinksSeq" duration-ms="19" started-at="2020-01-29T15:15:34Z" finished-at="2020-01-29T15:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinksSeq -->
+      </class> <!-- com.test.DasBoardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
